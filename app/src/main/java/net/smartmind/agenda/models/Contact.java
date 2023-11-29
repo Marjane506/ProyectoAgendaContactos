@@ -30,9 +30,9 @@ public class Contact {
 
     @Override
     public String toString() {
-        return "\nNombre:"+ this.getName()+
+        return "\nNombre:"+ this.getName() +
         "\nTelefono:" + this.getPhone()+
-        "\n;
+        "\n";
     }
 
     
