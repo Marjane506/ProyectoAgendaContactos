@@ -3,8 +3,11 @@
  */
 package net.smartmind.agenda;
 
+import net.smartmind.agenda.controllers.AppController;
+
 public class App {
      public static void main(String[] args) {
-
+        AppController app = new AppController();
+        app.run();
     }
 }
