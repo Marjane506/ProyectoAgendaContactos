@@ -26,7 +26,7 @@ dependencies {
 
 application {
     // Define the main class for the application.
-    mainClass = 'agenda.App'
+    mainClass = 'net.smartmind.agenda.App'
 }
 
 tasks.named('test') {
