@@ -1,4 +1,4 @@
-package net.smirtmind.agenda.view;
+package net.smartmind.agenda.views;
 
 import java.util.Scanner;
 
