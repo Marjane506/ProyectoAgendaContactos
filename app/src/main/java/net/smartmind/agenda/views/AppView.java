@@ -71,7 +71,7 @@ public class AppView {
 
     }
 
-    public void ContactView(Contact contact){
+    public void contactView(Contact contact){
         System.out.println("\n\nInformacion del Contacto: ");
         System.out.println("------------------------\n");
         System.out.println(contact);

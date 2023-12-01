@@ -1,6 +1,8 @@
 package net.smartmind.agenda.controllers;
 
 import java.util.Scanner;
+
+import net.smartmind.agenda.models.Contact;
 import net.smartmind.agenda.models.ContactModel;
 import net.smartmind.agenda.views.AppView;
 
